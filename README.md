@@ -14,6 +14,7 @@ Backend: Spring Boot (Java)
 
 Database: MySQL
 
+![App Screenshot](/images/home.png)
 ⚙️ Run Locally
 git clone https://github.com/your-username/library-management-system.git
 
